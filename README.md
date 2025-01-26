@@ -1,7 +1,5 @@
 # Fl-Races-Results-1950-to-2024.
 
-# F1 Races Results 1950 to 2024
-
 **1.Overview**
 
 This project provides a detailed analysis and visualization of F1 race results spanning over 74 years (1950–2024). Using Python, the project cleans and processes raw data, performs statistical analysis, and generates interactive visualizations to uncover insights about drivers, teams, circuits, and trends in Formula 1 history.
